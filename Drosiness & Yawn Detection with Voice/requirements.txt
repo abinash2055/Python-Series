@@ -1,0 +1,8 @@
+
+imutils==0.5.4
+numpy==1.26.4
+
+	not working
+	1. pip install argparse 
+	2. sudo apt-get install python3-scipy
+	3. sudo apt-get install espeak
